@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-	std::cout << "Hello Wold!";
+	std::cout << "Deez Nuts";
 	return 0;
-}
+}// EPOS
