@@ -15,26 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test4.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\..\OneDrive\Υπολογιστής\Σχολείο\ΟΠΑ\C++\Εργασία\sgg-main\assets\boy2.png">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="..\..\..\..\OneDrive\Υπολογιστής\Σχολείο\ΟΠΑ\C++\Εργασία\sgg-main\assets\iron.png">
-      <Filter>Resource Files</Filter>
-    </Image>
-  </ItemGroup>
-  <ItemGroup>
-    <Media Include="..\..\..\..\OneDrive\Υπολογιστής\Σχολείο\ΟΠΑ\C++\Εργασία\sgg-main\assets\hit1.wav">
-      <Filter>Resource Files</Filter>
-    </Media>
-  </ItemGroup>
-  <ItemGroup>
-    <Font Include="..\..\..\..\OneDrive\Υπολογιστής\Σχολείο\ΟΠΑ\C++\Εργασία\sgg-main\assets\orange juice 2.0.ttf">
-      <Filter>Resource Files</Filter>
-    </Font>
   </ItemGroup>
 </Project>
