@@ -23,6 +23,7 @@
     <ClCompile Include="tainiomania.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Comfig.h" />
     <ClInclude Include="tainiomania.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

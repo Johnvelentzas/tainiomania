@@ -1,5 +1,6 @@
 #include "graphics.h"
 #include "tainiomania.h"
+#include "Comfig.h"
 
 // The custom callback function that the library calls 
 // to check for and set the current application state.
@@ -20,14 +21,14 @@ int main()
 {
     tainiomania app;
 
-    graphics::createWindow(1200, 600, "Hello World");
+    graphics::createWindow(SCREEN_WIDTH, SCREEN_HEIGHT, "Tainiomania");
 
     graphics::setUserData(&app);
 
     graphics::setDrawFunction(draw);
     graphics::setUpdateFunction(update);
 
-    graphics::setCanvasSize(1000, 500);
+    graphics::setCanvasSize(100, 500);
     graphics::setCanvasScaleMode(graphics::CANVAS_SCALE_FIT);
 
     graphics::startMessageLoop();

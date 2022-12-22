@@ -1,4 +1,5 @@
 #include "tainiomania.h"
+#include "Comfig.h"
 
 void tainiomania::update()
 {
