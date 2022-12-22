@@ -1,4 +1,5 @@
 #include "graphics.h"
+#include "tainiomania.h"
 
 // The custom callback function that the library calls 
 // to check for and set the current application state.
@@ -15,6 +16,7 @@ void draw()
 
 int main()
 {
+    tainiomania app;
     graphics::createWindow(1200, 600, "Hello World");
 
     graphics::setDrawFunction(draw);
