@@ -1,7 +1,7 @@
 #pragma once
 #include <string>
 #include <functional>
-#include <sgg/scancodes.h>
+#include <scancodes.h>
 #include <vector>
 
 /** \file graphics.h This is the *only* library header file that is required to be included by your application.
