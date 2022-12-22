@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/tainiomania/bin/tainiomaniad.pdb
+/tainiomania/bin/tainiomaniad.exe
+/tainiomania/bin/tainiomaniad.exe
