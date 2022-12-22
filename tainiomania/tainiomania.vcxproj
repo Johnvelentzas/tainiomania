@@ -21,6 +21,16 @@
   <ItemGroup>
     <ClCompile Include="test4.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\OneDrive\Υπολογιστής\Σχολείο\ΟΠΑ\C++\Εργασία\sgg-main\assets\boy2.png" />
+    <Image Include="..\..\..\..\OneDrive\Υπολογιστής\Σχολείο\ΟΠΑ\C++\Εργασία\sgg-main\assets\iron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\..\..\..\OneDrive\Υπολογιστής\Σχολείο\ΟΠΑ\C++\Εργασία\sgg-main\assets\hit1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="..\..\..\..\OneDrive\Υπολογιστής\Σχολείο\ΟΠΑ\C++\Εργασία\sgg-main\assets\orange juice 2.0.ttf" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
