@@ -21,10 +21,6 @@
   <ItemGroup>
     <ClCompile Include="test4.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="being.h" />
-    <ClInclude Include="human.h" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
