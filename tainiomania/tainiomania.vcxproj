@@ -25,7 +25,7 @@
   <ItemGroup>
     <ClInclude Include="Comfig.h" />
     <ClInclude Include="appObject.h" />
-    <ClInclude Include="rectangleTest.h" />
+    <ClInclude Include="clickable.h" />
     <ClInclude Include="tainiomania.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
