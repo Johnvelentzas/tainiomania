@@ -23,9 +23,9 @@
     <ClCompile Include="tainiomania.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="clickable.h" />
     <ClInclude Include="Comfig.h" />
     <ClInclude Include="appObject.h" />
+    <ClInclude Include="rectangleTest.h" />
     <ClInclude Include="tainiomania.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

@@ -29,5 +29,11 @@
     <ClInclude Include="Comfig.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="appObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rectangleTest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
