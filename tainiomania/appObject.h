@@ -1,11 +1,9 @@
 #pragma once
-
+/**
+* A virtual class every UI element or logic element must inherit.
+*/
 class appObject {
-private:
-	float pos_x;
-	float pos_y;
 public:
-	virtual void draw() = 0;
 	virtual void update() = 0;
 	virtual void init() = 0;
 	virtual ~appObject() {};

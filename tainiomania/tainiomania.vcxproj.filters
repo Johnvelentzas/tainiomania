@@ -32,7 +32,10 @@
     <ClInclude Include="appObject.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="clickable.h">
+    <ClInclude Include="uiElement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="avatar.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
