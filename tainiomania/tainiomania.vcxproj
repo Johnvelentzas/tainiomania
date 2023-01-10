@@ -29,9 +29,6 @@
     <ClInclude Include="uiElement.h" />
     <ClInclude Include="tainiomania.h" />
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\bin\assets\avatarTheWayOfWater.png" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

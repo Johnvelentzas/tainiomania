@@ -9,7 +9,7 @@ class avatar : public uiElement {
 public:
 	void draw() {
 		graphics::Brush brush;
-		brush.texture = "assets\\avatarTheWayOfWater.png";
+		brush.texture = (std::string)ASSETS_PATH + "avatarTheWayOfWater.png";
 		graphics::drawRect(this->pos_x, this->pos_y, this->width, this->height, brush);
 	}
 	void update(){}
