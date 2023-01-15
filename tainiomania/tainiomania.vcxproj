@@ -19,14 +19,19 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="filter.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="moviePoster.cpp" />
     <ClCompile Include="tainiomania.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="avatar.h" />
     <ClInclude Include="Comfig.h" />
     <ClInclude Include="appObject.h" />
-    <ClInclude Include="uiElement.h" />
+    <ClInclude Include="data.h" />
+    <ClInclude Include="filter.h" />
+    <ClInclude Include="link.h" />
+    <ClInclude Include="moviePoster.h" />
+    <ClInclude Include="widget.h" />
     <ClInclude Include="tainiomania.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

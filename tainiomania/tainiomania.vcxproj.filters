@@ -21,6 +21,12 @@
     <ClCompile Include="tainiomania.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="filter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="moviePoster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tainiomania.h">
@@ -32,10 +38,19 @@
     <ClInclude Include="appObject.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="uiElement.h">
+    <ClInclude Include="widget.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="avatar.h">
+    <ClInclude Include="moviePoster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="filter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="link.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
